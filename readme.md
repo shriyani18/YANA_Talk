@@ -1,6 +1,6 @@
 # 🎙️ Your Alexa-like AI Named Assistant in Python – YANA
 
-A smart and interactive voice assistant built using Python. This assistant listens to your commands and performs actions like playing music, telling the time, searching Wikipedia, and even cracking jokes! It’s designed to be lightweight and friendly — like your own desktop Alexa! 🧠✨
+A smart and interactive voice assistant built using Python. This assistant listens to your commands and performs actions like playing music, telling the time, searching Wikipedia, and even cracking jokes! It’s designed to be lightweight and friendly — like your own desktop Alexa or Siri! 🧠✨
 
 ---
 
@@ -35,31 +35,13 @@ A smart and interactive voice assistant built using Python. This assistant liste
 
 ---
 
-## 💬 Example Commands
-
-| You Say                          | Assistant Response                                |
-|----------------------------------|---------------------------------------------------|
-| `yana play believer`             | "Playing believer"                                |
-| `yana what time is it`           | "The current time is 04:15 PM"                    |
-| `yana who is Sundar Pichai`      | "Sundar Pichai is the CEO of Alphabet Inc..."     |
-| `yana tell me a joke`            | "Why do Java developers wear glasses?..."         |
-| `yana stop`                      | "Goodbye! Talk to you later."                     |
-
----
-
 ## 🛠️ Requirements
 
 - Python 3.6 or higher
 - Internet connection (for speech recognition & online features)
 
-### 🔧 Install Dependencies
 
-```bash
-pip install -r requirements.txt
-
----
-
-## 🧠 Technologies Used
+### 🧠 Technologies Used
 
 - **SpeechRecognition** – Convert voice to text
 - **pyttsx3** – Text-to-speech conversion (offline)
@@ -89,7 +71,13 @@ pip install -r requirements.txt
 - 📫 *Feel free to connect and contribute!*
 
 ---
-🧠 Tip
+
+🧠 **Tip**  
 Use headphones and a quiet environment for better voice recognition accuracy.
 
+### 🔧 Install Dependencies
 
+```bash
+pip install -r requirements.txt
+
+---

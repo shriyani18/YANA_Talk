@@ -39,6 +39,7 @@ A smart and interactive voice assistant built using Python. This assistant liste
 
 - Python 3.6 or higher
 - Internet connection (for speech recognition & online features)
+- Working Microphone
 
 
 ### 🧠 Technologies Used

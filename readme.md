@@ -1,4 +1,4 @@
-# 🎙️ Alexa-like Voice Assistant in Python – YANA
+# 🎙️ Your Alexa-like AI Named Assistant in Python – YANA
 
 A smart and interactive voice assistant built using Python. This assistant listens to your commands and performs actions like playing music, telling the time, searching Wikipedia, and even cracking jokes! It’s designed to be lightweight and friendly — like your own desktop Alexa! 🧠✨
 

@@ -53,22 +53,11 @@ A smart and interactive voice assistant built using Python. This assistant liste
 
 ---
 
-## 🔮 Future Improvements
-
-- 🌦️ **Get weather updates** using OpenWeatherMap API
-- 📅 **Add calendar/task reminders**
-- 💬 **Use NLP for smarter intent detection**
-- 📤 **Send WhatsApp messages or emails**
-- 📰 **Read latest news headlines**
-- 🔐 **Add voice authentication**
-
----
-
 ## 🙋‍♀️ Author
 
 **Shriyani Teli**
 
-- 🔗 [GitHub Profile](#)  
+- 🔗 [GitHub Profile](https://github.com/shriyani18)  
 - 📫 *Feel free to connect and contribute!*
 
 ---
